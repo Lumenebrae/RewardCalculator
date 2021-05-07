@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.round {
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  min-width: 800px;
+  width: auto;
+  height: auto;
+}
+
+.roundTable {
+  border-radius: 25px;
+  border: 2px solid #ffffff;
+  padding: 20px;
+  height: auto;
+}
+
+table {
+  border: 1px solid #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  width: 96%;
+}
+
+th,
+td {
+  border: 1px solid #ffffff;
+}
